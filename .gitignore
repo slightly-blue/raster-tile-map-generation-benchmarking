@@ -4,3 +4,6 @@ tiling/**
 node_modules
 dist
 
+source-tiles/**
+.tif
+.jp2
