@@ -1,0 +1,8 @@
+frontend/**
+notes/**
+tiling/**
+node_modules
+dist
+
+.tif
+.jp2
