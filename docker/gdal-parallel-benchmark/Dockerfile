@@ -24,4 +24,4 @@ RUN curl https://raw.githubusercontent.com/parallelo-ai/gdal2tiles_mp/master/gda
 # command for creating a dcker image based on the this file:
 # docker build -t gdal-parallel-test:latest .
 
-# This image is used for becnchmarking gdal2tiles_parallel and gdal2tiles_mp, 
+# This image is used for becnchmarking gdal2tiles, gdal2tiles_parallel and gdal2tiles_mp, 

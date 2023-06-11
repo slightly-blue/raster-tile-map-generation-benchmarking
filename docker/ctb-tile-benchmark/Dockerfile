@@ -21,7 +21,7 @@ ENV PATH="/root/.cargo/bin:${PATH}"
 RUN cargo install hyperfine
 
 
-# command for creating a dcker image based on the this file:
+# command for creating a docker image based on the this file:
 # docker build -t ctb-tile-test:latest .
 
-# This image is used for becnchmarking ctb-tile
+# This image is used for benchmarking ctb-tile
